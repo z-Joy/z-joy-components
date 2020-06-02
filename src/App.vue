@@ -6,7 +6,7 @@
 </template>
 
 <script>
-import avatar from '@/components/avatar/index'; // 引入
+import avatar from '@/lib/avatar/index'; // 引入
 export default {
   name: 'app',
   data () {
